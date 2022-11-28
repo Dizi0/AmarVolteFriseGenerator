@@ -4,9 +4,9 @@ Usage :
 
 ```bash
 # Clone this repository
-git clone https://github.com/Dizi0/Config_Checker_Electron.git
+git clone https://github.com/Dizi0/AmarVolteFriseGenerator
 # Go into the repository
-cd Config_Checker_Electron
+cd AmarVolteFriseGenerator
 # Install dependencies
 npm install
 # Run the app
