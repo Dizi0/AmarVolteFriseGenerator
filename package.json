@@ -1,0 +1,28 @@
+{
+  "name": "amarvolte_frise",
+  "version": "2.1.0",
+  "description": "A small dashboard to create friezes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Amarvolte",
+    "Frize",
+    "Obs"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  },
+  "dependencies": {
+    "systeminformation": "^4.26.9"
+  },
+  "build": {
+    "win": {
+      "target": "portable",
+      "icon": "build/icon.ico"
+    }
+  }
+}
