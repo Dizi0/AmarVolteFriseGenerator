@@ -117,3 +117,7 @@ img.av {
     border-bottom-left-radius: 50px;
     border-top-left-radius: 50px;
 }
+
+div#friseWrapper {
+    margin-top: 20px;
+}
